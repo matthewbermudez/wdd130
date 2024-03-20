@@ -1,0 +1,51 @@
+
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    color: steelblue;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+    border: 2px solid white;
+}
+main {
+    max-width: 700px;
+}
+
+aside{
+    width: 500px;
+    margin: 23px;
+    border: 5px solid grey;
+    padding: 10px;
+    background-color: rgba(33, 110, 143, 0.829);
+    color: white;
+}
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    border-top: 3px dotted rgba(0, 0, 0, 0.684);
+}
